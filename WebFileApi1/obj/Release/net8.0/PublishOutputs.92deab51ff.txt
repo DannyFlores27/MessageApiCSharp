@@ -1,0 +1,11 @@
+C:\Dev\learning\WebFileApi1\WebFileApi1\obj\Release\net8.0\PubTmp\Out\WebFileApi1.exe
+C:\Dev\learning\WebFileApi1\WebFileApi1\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+C:\Dev\learning\WebFileApi1\WebFileApi1\obj\Release\net8.0\PubTmp\Out\appsettings.json
+C:\Dev\learning\WebFileApi1\WebFileApi1\obj\Release\net8.0\PubTmp\Out\WebFileApi1.dll
+C:\Dev\learning\WebFileApi1\WebFileApi1\obj\Release\net8.0\PubTmp\Out\WebFileApi1.deps.json
+C:\Dev\learning\WebFileApi1\WebFileApi1\obj\Release\net8.0\PubTmp\Out\WebFileApi1.runtimeconfig.json
+C:\Dev\learning\WebFileApi1\WebFileApi1\obj\Release\net8.0\PubTmp\Out\WebFileApi1.pdb
+C:\Dev\learning\WebFileApi1\WebFileApi1\obj\Release\net8.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Dev\learning\WebFileApi1\WebFileApi1\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Dev\learning\WebFileApi1\WebFileApi1\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Dev\learning\WebFileApi1\WebFileApi1\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
