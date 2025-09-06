@@ -42,6 +42,7 @@ app.UseCors("CorsPolicy");
 
 app.UseAuthorization();
 
+
 app.UseSwagger();
 app.UseSwaggerUI();
 
