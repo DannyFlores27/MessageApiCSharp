@@ -1,0 +1,16 @@
+# Archivos de configuración y secretos
+appsettings.json
+.env
+
+# Visual Studio / .NET
+.vs/
+bin/
+obj/
+[Dd]ebug/
+[Rr]elease/
+*.suo
+*.user
+*.log
+*.pdb
+*.pdbx
+*.nupkg
